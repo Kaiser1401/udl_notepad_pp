@@ -1,5 +1,5 @@
 # udl_notepad_pp
-My User-Defined-Language(s) (UDL) for custom suntax highlighting in the famous [Notepad++](https://notepad-plus-plus.org/)
+My User-Defined-Language(s) (UDL) for custom syntax highlighting in the famous [Notepad++](https://notepad-plus-plus.org/)
 
 Starting just with UR script for now
 
