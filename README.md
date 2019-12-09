@@ -1,6 +1,12 @@
 # udl_notepad_pp
 My User-Defined-Language(s) (UDL) for custom syntax highlighting in the famous [Notepad++](https://notepad-plus-plus.org/)
 
+# installation
+* checkout
+* run `copy_to_npp.bat` to copy xml files to `%APPDATA%\Notepad++\userDefineLangs`
+* restart Notepad++
+* find syntax higlighting in the <Language> menu
+
 Starting just with UR script for now
 
 ### UR Script
