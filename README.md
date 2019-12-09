@@ -5,7 +5,7 @@ My User-Defined-Language(s) (UDL) for custom syntax highlighting in the famous [
 * checkout
 * run `copy_to_npp.bat` to copy xml files to `%APPDATA%\Notepad++\userDefineLangs`
 * restart Notepad++
-* find syntax higlighting in the <Language> menu
+* find syntax higlighting in the _Language_ menu
 
 Starting just with UR script for now
 
