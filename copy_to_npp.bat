@@ -1,0 +1,1 @@
+copy /-Y "*.xml" "%APPDATA%\Notepad++\userDefineLangs\"
